@@ -4,7 +4,8 @@ Generating images with the OpenAI's DALL·E models. Can create original, realist
 ### Learn how to generate or manipulate images with the OpenAI's DALL·E models
 https://platform.openai.com/docs/guides/images
 
-![open_ai_logo](https://user-images.githubusercontent.com/93230178/226810759-738bf001-9046-4e05-b97b-c94f85e6cdff.jpg)
-
 ### Check out the DALL·E preview app
 https://labs.openai.com/
+
+
+![OpenAI_Logo svg](https://user-images.githubusercontent.com/93230178/226811188-18fa860c-439c-41e2-a354-9b339d7dad28.png)
